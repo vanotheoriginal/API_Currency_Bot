@@ -1,0 +1,55 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 938626415,
+      "message": {
+        "message_id": 5,
+        "from": {
+          "id": 276871710,
+          "is_bot": false,
+          "first_name": "Ivan",
+          "username": "vanotheoriginal",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 276871710,
+          "first_name": "Ivan",
+          "username": "vanotheoriginal",
+          "type": "private"
+        },
+        "date": 1616577953,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 938626416,
+      "message": {
+        "message_id": 7,
+        "from": {
+          "id": 276871710,
+          "is_bot": false,
+          "first_name": "Ivan",
+          "username": "vanotheoriginal",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 276871710,
+          "first_name": "Ivan",
+          "username": "vanotheoriginal",
+          "type": "private"
+        },
+        "date": 1616578914,
+        "text": "Здорова"
+      }
+    }
+
+  ]
+}
